@@ -1,1 +1,5 @@
 Dockerfile
+mongoReplicaSet/envVariables
+mongoReplicaSet/replicaSetSecondary/envVariables
+mongoReplicaSet/replicaSetPrimary/envVariables
+mongoReplicaSet/replicaSetArbiter/envVariables

@@ -1,4 +1,4 @@
-# Strider Configuration
+# Strider Tutorial
 
 ---
 
