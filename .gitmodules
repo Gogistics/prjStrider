@@ -1,0 +1,3 @@
+[submodule "modules/strider"]
+	path = modules/strider
+	url = git@github.com:Strider-CD/strider.git

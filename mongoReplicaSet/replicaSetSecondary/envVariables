@@ -1,0 +1,13 @@
+# mongo replica set network setting
+MONGO_RS_ONE_IP="172.18.0.10"
+MONGO_RS_TWO_IP="172.18.0.11"
+MONGO_RS_ARBITER_IP="172.18.0.12"
+
+# variables
+STRIDER_DB="strider"
+ADMIN="strider_admin"
+ADMIN_PWD="striderReplicaSetAdmin168"
+ROOT_USER="strider_root"
+ROOT_PWD="striderReplicatSetRoot167"
+USER="strider_user"
+USER_PWD="striderReplicaSetUser166"
