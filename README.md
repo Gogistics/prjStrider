@@ -10,3 +10,11 @@ Reference
 [Docker Network](https://docs.docker.com/engine/userguide/networking/)
 
 [Docker Network Example](https://github.com/docker/compose/issues/2804)
+
+[MongoDB](https://www.mongodb.com/)
+
+[Mailgun](https://www.mailgun.com/)
+
+[Kue](https://automattic.github.io/kue/)
+
+[RabbitMQ](https://www.rabbitmq.com/)
